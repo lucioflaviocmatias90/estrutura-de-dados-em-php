@@ -12,7 +12,9 @@ Caso médio: f(n) = (n+1)/2
 Melhor caso: f(n) = 1
 
 **Melhor caso**: menor tempo de execução sobre todas as entradas de tamanho n.
+
 O **pior caso**: maior tempo de execução sobre todas as entradas tamanho n.
+
 **Caso médio**: média dos tempos de execução de todas as entradas de tamanho n.
 
 **Grande-O** (Big O) representa a complexidade no pior caso.
@@ -22,6 +24,7 @@ Notação theta (limite assintótico firme)
 Notação ômega (limite assintótico inferior, análise de melhor caso)
 
 Conteúdo:
-Lista Duplamente encadeada
-Pilha
-Fila
+- Lista Duplamente encadeada
+- Pilha
+- Fila
+- Árvore (Heap)
