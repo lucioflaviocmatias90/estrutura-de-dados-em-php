@@ -28,7 +28,7 @@ Conteúdo:
     - Lista Duplamente encadeada
     - Pilha
     - Fila
-    - [Árvore] (MinHeap e MaxHeap) (https://github.com/lucioflaviocmatias90/estrutura-de-dados-em-php/tree/master/estrutura-de-dados/arvore)
+    - [Árvore (MinHeap e MaxHeap)](https://github.com/lucioflaviocmatias90/estrutura-de-dados-em-php/tree/master/estrutura-de-dados/arvore)
     - Fila Prioritária
     - StorageObject
 - Iteradores
