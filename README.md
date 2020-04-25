@@ -34,3 +34,7 @@ Conteúdo:
 - Iteradores
     - Iterator
     - AppendIterator
+    - ArrayIterator
+    - CachingIterator
+    - EmptyIterator
+    - FileSystemIterator

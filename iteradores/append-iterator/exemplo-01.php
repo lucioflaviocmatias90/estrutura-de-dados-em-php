@@ -5,5 +5,5 @@ $iterator->append(new DirectoryIterator('../'));
 $iterator->append(new DirectoryIterator('/'));
 
 foreach ($iterator as $item) {
-    echo $item."<br>";
+    echo $item . PHP_EOL;
 }
